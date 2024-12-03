@@ -9,7 +9,7 @@
 
 ### Website Preview
 #### Home Page
-<img src="website_images/homePage.gif" width="900">
+<img src="website_images/HomePage" width="900">
 
 
 #### About Page
